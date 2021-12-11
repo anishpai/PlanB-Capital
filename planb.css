@@ -12,12 +12,17 @@
 }
 
 #intro{
-    padding: 10% 10%;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom:25%;
     background-color: rgb(0, 21, 85);
-    color: blanchedalmond;
+    color: rgb(255, 255, 255);
 }
 
-
+.wrw{
+    color: #fff;
+}
 .question{
     font-size: 1.2rem;
     padding-bottom: 15px;
@@ -51,7 +56,7 @@
 }
 .nav-link{
     
-    font-size: 1.25rem;
+    font-size: 1rem;
     font-weight: bold;
 }
 #categories{
@@ -88,7 +93,7 @@
 #invprocess{
     padding: 5% 10%;
     background-color: rgb(0, 21, 85);
-    color: blanchedalmond;
+    color: rgb(247, 247, 247);
 }
 .pros{
     padding-top: 8px;
@@ -122,13 +127,15 @@
 }
 #testimonials{
     background-color: rgb(0, 21, 85);
-    color: blanchedalmond;
+    color: rgb(245, 245, 245);
     text-align: center;
     
-    padding: 5% 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-bottom: 15%;
     
-    margin-bottom: 20px;
-    max-height: 500px;
+    max-height: 550px;
 
 }
 
@@ -149,7 +156,11 @@
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 5%;
+    padding-bottom: 5%;
     background-color: rgb(0, 21, 85);
+}
+.gpimg{
+    margin-top: 20px;
 }
 .partn{
     padding-left: 5%;
@@ -169,6 +180,7 @@
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 5%;
+    padding-bottom: 5%;
     background-color: rgb(241, 241, 234);
 }
 .gpss{
